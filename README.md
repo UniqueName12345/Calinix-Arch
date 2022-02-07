@@ -3,9 +3,12 @@
 
 CalinixOS is an Arch-based Linux Distribution made especially for THE Power User
 
+## CalinixOS+
+CalinixOS+ is all the features that I would have hoped to see in vanilla CalinixOS, but isn't in yet.
+
 ![](https://get.calinix.tech/assets/img/hero-img.png)
 
-This is the Github Repository for the CalinixOS ISO
+This is the Github Repository for the CalinixOS+ ISO
 
 ## Goals
 ### Optimization
@@ -90,7 +93,7 @@ NOTE: CalinixOS Uses Picom as compositor which doesn't quite go well in a VMs.
 
 Donate to Calinix Project, motivating us to make our projects better
 
-<a href="https://www.buymeacoffee.com/team.calinix"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Us a coffee&emoji=&slug=team.calinix&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+LINK UNAVAILABLE, GOTTA MAKE OUR OWN COFFEE LINK
 
 ## Extra Credits
 
@@ -103,4 +106,5 @@ Donate to Calinix Project, motivating us to make our projects better
 - [**Erik Dubois and other ArcoLinux Team**](https://arcolinux.com)- The ArcoLinux discord server and Erik and his team are awesome, can't explain their contribution in words. Anywhere doubt-solving, and they were ready, Arco is already an awesome project, and recently we added ArcoLinux Repositories to Calinix. Now Calinix is heavily based of Arco. Great people, great project, great distro. (I use Arco BTW)
 
 - [**Vinceliuice**](https://github.com/vinceliuice/)- His whitesur themes are used in Calinix, and we love the themes, it adds extra beauty to calinix and has a different level feeling. We appreciate him highly for making such beautiful themes.
+
 
